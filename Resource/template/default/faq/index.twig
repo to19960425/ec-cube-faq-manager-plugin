@@ -1,0 +1,29 @@
+{% extends 'default_frame.twig' %}
+
+{% block main %}
+    <div class="ec-role">
+        <div class="ec-pageHeader">
+            <h1>{{ 'faq_manager.front.faq.title'|trans }}</h1>
+        </div>
+        <div class="ec-off1Grid">
+            <div class="ec-off1Grid__cell">
+                <div class="ec-heading-bold">カテゴリをココ</div>
+                <div class="faq_manager_faq__item">
+                    <div class="faq_manager_faq__question">
+                        <div class="faq_manager_faq__question__title">
+                            <span class="">Q.</span>
+                            個人情報の利用目的は何ですか？
+                        </div>
+                    </div>
+                    <div class="faq_manager_faq__answer">
+                        <div class="faq_manager_faq__answer__content">お客さまからお預かりした個人情報は、以下の目的で利用いたします。</div>
+                        <ul>
+                            <li>お客さまへのサービス提供</li>
+                            <li>お客さまへのご連絡</li>
+                            <li>お客さまからのお問い合わせへの対応</li>
+                        </ul>
+                    </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

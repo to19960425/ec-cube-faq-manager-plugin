@@ -13,3 +13,6 @@ faq_manager.admin.visible: "表示"
 
 faq_manager.admin.to_hide_message: "「質問内容(ID: %id%): %question%」 を非表示にしました。"
 faq_manager.admin.to_show_message: "「質問内容(ID: %id%): %question%」 を表示しました。"
+
+faq_manager.front.faq.title: "よくあるご質問"
+faq_manager.front.category.null: "未分類"
