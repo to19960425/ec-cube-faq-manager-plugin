@@ -1,0 +1,15 @@
+faq_manager.admin.nav.001: "FAQ管理"
+faq_manager.admin.nav.002: "FAQ一覧"
+faq_manager.admin.nav.003: "カテゴリ管理"
+faq_manager.admin.nav.004: "FAQカテゴリ一覧"
+faq_manager.admin.nav.005: "FAQ登録"
+
+faq_manager.admin.id: "ID"
+faq_manager.admin.category: "カテゴリ"
+faq_manager.admin.content: "FAQ内容"
+faq_manager.admin.question: "質問内容"
+faq_manager.admin.answer: "回答内容"
+faq_manager.admin.visible: "表示"
+
+faq_manager.admin.to_hide_message: "「質問内容(ID: %id%): %question%」 を非表示にしました。"
+faq_manager.admin.to_show_message: "「質問内容(ID: %id%): %question%」 を表示しました。"
